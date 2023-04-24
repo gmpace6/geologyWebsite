@@ -20,10 +20,18 @@ input {
     width: 15%;
 }
 
-img, iframe {
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
+
+iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
 
